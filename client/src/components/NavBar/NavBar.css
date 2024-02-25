@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #f4f4f4;
+}
+
+.ulContainer {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.linkContainer {
+  display: flex;
+  width: 50%;
+  justify-content: space-evenly;
+  list-style: none;
+  text-decoration: none;
+  height: 100%;
+  font-size: 20px;
+}
+
+.cusoryTitle {
+  margin-left: 3rem;
+  font-size: 40px;
+  color: orange;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.linkTitle {
+  text-decoration: none;
+  color: black;
+}
+
+.linkTitle:hover {
+  border-bottom: 1px orange solid;
+}

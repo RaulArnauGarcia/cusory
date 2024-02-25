@@ -1,0 +1,15 @@
+.homeTitle {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  text-align: center;
+  height: fit-content;
+  width: 30rem;
+  padding: 2rem;
+  border: 1px orange solid;
+  background-color: white;
+}
+
+.homeContainer {
+  display: flex;
+  justify-content: center;
+}

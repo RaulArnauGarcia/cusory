@@ -1,0 +1,29 @@
+.containerProfile {
+  margin-top: 10rem;
+  height: 20rem;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px orange solid;
+  border-radius: 10px;
+}
+
+.titleProfile {
+  font-size: 40px;
+  margin-bottom: 2rem;
+}
+
+.parrafName {
+  font-size: 25px;
+  margin-bottom: 1rem;
+}
+
+.parrafEmail {
+  font-size: 25px;
+  margin-bottom: 1rem;
+}

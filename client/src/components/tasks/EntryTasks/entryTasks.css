@@ -1,0 +1,22 @@
+.taskContainer {
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+  width: 50%;
+  height: 10rem;
+  border: 2px black solid;
+  border-radius: 50px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: white;
+  font-size: 15px;
+  text-decoration: none;
+  list-style: none;
+}
+
+.divContainer {
+  display: flex;
+  justify-content: center;
+}

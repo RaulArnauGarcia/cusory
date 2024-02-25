@@ -1,0 +1,44 @@
+.inputContainer {
+  background-color: white;
+  width: 50%;
+  height: 70%;
+  display: flex;
+  flex-direction: column;
+  border: 2px orange solid;
+  border-radius: 10px;
+}
+
+.container {
+  margin-top: 10rem;
+  height: 35rem;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.formContainer {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.containerTitle {
+  margin-top: 2rem;
+  font-size: 40px;
+}
+
+.signIn_input {
+  padding: 0.5rem;
+  margin-top: 1rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+
+.buttonInput {
+  margin-top: 2rem;
+  padding: 0.5rem;
+  margin-left: 6rem;
+  margin-right: 6rem;
+}
